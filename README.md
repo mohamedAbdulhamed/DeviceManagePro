@@ -32,7 +32,7 @@ DeviceManagePro is a .NET 8 web API application designed to manage devices, clie
 - Serilog
 
 ## Project Structure
-
+```
 / Controllers
     - DeviceController.cs
     - ClientController.cs
@@ -75,6 +75,7 @@ DeviceManagePro is a .NET 8 web API application designed to manage devices, clie
     - DeviceProfile.cs
 appsettings.json
 Program.cs
+```
 
 ## Getting Started
 
